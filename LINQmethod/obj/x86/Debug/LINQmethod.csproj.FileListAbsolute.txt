@@ -1,0 +1,4 @@
+C:\c#\Assignment\LINQmethod\LINQmethod\bin\Debug\LINQmethod.exe
+C:\c#\Assignment\LINQmethod\LINQmethod\bin\Debug\LINQmethod.pdb
+C:\c#\Assignment\LINQmethod\LINQmethod\obj\x86\Debug\LINQmethod.exe
+C:\c#\Assignment\LINQmethod\LINQmethod\obj\x86\Debug\LINQmethod.pdb
